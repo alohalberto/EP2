@@ -1,0 +1,1 @@
+INDEX VERSION 1.131+C:\Users\VSPC-EternalStormV2\Desktop\Universidad\1. Asignaturas\Diseño de Estructuras de Datos\EP2\.metadata\.plugins\org.eclipse.jdt.core
