@@ -23,6 +23,7 @@ public class Play4FunImpl implements Play4Fun {
 	public void addGame(String idGame, String description) throws GameAlreadyExistsException {
 		Game game=new Game(idGame, description);
 		gameVector = new VectorOrdenado<Game>();
+		//hola
 		
 	}
 
